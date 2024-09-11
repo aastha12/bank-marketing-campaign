@@ -1,0 +1,17 @@
+                 Feature Id  Importances
+0   month_day_of_week_cross    20.982730
+1                       job     9.840274
+2                     month     9.246041
+3                age_binned     8.053323
+4                  campaign     7.971979
+5        day_of_week_binned     7.464834
+6                 education     6.393900
+7                   marital     6.272822
+8                     pdays     5.913129
+9                   housing     3.318978
+10           balance_binned     3.013535
+11                     loan     2.616608
+12     pdays_previous_cross     2.615374
+13                 previous     2.376913
+14                  default     2.089114
+15                  contact     1.830444

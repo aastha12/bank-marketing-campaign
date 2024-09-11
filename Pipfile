@@ -11,6 +11,9 @@ matplotlib = "*"
 tensorflow = "*"
 catboost = "*"
 mlflow = "*"
+scikit-optimize = "*"
+imbalanced-learn = "*"
+seaborn = "*"
 
 [dev-packages]
 ipykernel = "*"
